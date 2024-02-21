@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youssefmohamedtaman&label=Profile%20views&color=0e75b6&style=flat" alt="youssefmohamedtaman" /> </p>
 
-- 🌱 I’m currently learning **Spring Boot , Java , Data Structre**
+- 🌱 I’m currently learning **Spring Boot , Java , Data Structure**
 
 - 📫 How to reach me **yousseftaman11@gmail.com**
 
